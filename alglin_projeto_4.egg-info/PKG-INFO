@@ -1,3 +1,17 @@
+Metadata-Version: 2.1
+Name: alglin_projeto_4
+Version: 0.1
+Summary: Rotacionar um cubo em 3 dimensões
+Home-page: https://github.com/vitorraiaa/alglin_projeto_4.git
+Author: Vitor Raia e Rafael Ken
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: pygame
+
 # Projeto 4 - Álgebra Linear
 
 

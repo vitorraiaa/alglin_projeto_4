@@ -1,0 +1,10 @@
+README.md
+setup.py
+alglin_projeto_4.egg-info/PKG-INFO
+alglin_projeto_4.egg-info/SOURCES.txt
+alglin_projeto_4.egg-info/dependency_links.txt
+alglin_projeto_4.egg-info/entry_points.txt
+alglin_projeto_4.egg-info/requires.txt
+alglin_projeto_4.egg-info/top_level.txt
+cubo/__init__.py
+cubo/cubo.py
